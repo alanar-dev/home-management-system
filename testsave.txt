@@ -1,0 +1,3 @@
+bob
+device,69,blorg,blorgroom
+smartlight,60,67,blorglight,bedroom

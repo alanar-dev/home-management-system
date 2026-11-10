@@ -1,0 +1,5 @@
+Alana
+device,17,lamp,livingRoom
+smartlight,40,01,light1,kitchen
+smartlight,30,02,light2,bedroom
+device,67,thermostat,hallway
